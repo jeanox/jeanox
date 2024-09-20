@@ -1,4 +1,4 @@
-### Biki/Becky Pennock - Front End Developer 🐝🗝️
+### Biki/Becky Pennock - Senior Full-Stack Developer 🐝🗝️
 
 Hi there! I'm a developer who got their start in notepad making fun fandom websites as a kid and I kept falling down more and more code rabbitholes. I code for the same reason people play Super Meat Boy -- there's satisfaction in getting something after working to get there.
 
